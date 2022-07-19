@@ -1,0 +1,16 @@
+{
+  "name": "restapi-node-postgresql",
+  "version": "1.0.0",
+  "description": "RestAPI created with nodeJS and postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "postgresql",
+    "javascript"
+  ],
+  "author": "Lucas Isaias Casco, 'isaias-alt' - cascolucasisaias@gmail.com",
+  "license": "ISC"
+}
