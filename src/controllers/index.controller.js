@@ -7,7 +7,7 @@ const DB_PASS = process.env.DB_PASS
 const pool = new Pool ({
   host: 'localhost',
   user: 'postgres',
-  password: '07102000',
+  password: DB_PASS,
   database: 'firstapi',
   port: '5432'  
 })
